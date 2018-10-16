@@ -330,7 +330,7 @@ Discarded input sections
  .debug_aranges
                 0x0000000000000000       0x18 ./Stack/stack_user_cfg.o
  .debug_line    0x0000000000000000       0x1d ./Stack/stack_user_cfg.o
- .debug_str     0x0000000000000000      0x1b4 ./Stack/stack_user_cfg.o
+ .debug_str     0x0000000000000000      0x1b9 ./Stack/stack_user_cfg.o
  .comment       0x0000000000000000       0x72 ./Stack/stack_user_cfg.o
  .ARM.attributes
                 0x0000000000000000       0x31 ./Stack/stack_user_cfg.o
@@ -356,7 +356,7 @@ Discarded input sections
                 0x0000000000000000       0x48 ./SDK_Eval_BlueNRG1/SDK_EVAL_Button.o
  .debug_ranges  0x0000000000000000       0x38 ./SDK_Eval_BlueNRG1/SDK_EVAL_Button.o
  .debug_line    0x0000000000000000      0x3f6 ./SDK_Eval_BlueNRG1/SDK_EVAL_Button.o
- .debug_str     0x0000000000000000      0xdf6 ./SDK_Eval_BlueNRG1/SDK_EVAL_Button.o
+ .debug_str     0x0000000000000000      0xdfb ./SDK_Eval_BlueNRG1/SDK_EVAL_Button.o
  .comment       0x0000000000000000       0x72 ./SDK_Eval_BlueNRG1/SDK_EVAL_Button.o
  .debug_frame   0x0000000000000000       0xb0 ./SDK_Eval_BlueNRG1/SDK_EVAL_Button.o
  .ARM.attributes
@@ -462,7 +462,7 @@ Discarded input sections
                 0x0000000000000000       0x48 ./SDK_Eval_BlueNRG1/SDK_EVAL_Led.o
  .debug_ranges  0x0000000000000000       0x38 ./SDK_Eval_BlueNRG1/SDK_EVAL_Led.o
  .debug_line    0x0000000000000000      0x3da ./SDK_Eval_BlueNRG1/SDK_EVAL_Led.o
- .debug_str     0x0000000000000000      0xb97 ./SDK_Eval_BlueNRG1/SDK_EVAL_Led.o
+ .debug_str     0x0000000000000000      0xb9c ./SDK_Eval_BlueNRG1/SDK_EVAL_Led.o
  .comment       0x0000000000000000       0x72 ./SDK_Eval_BlueNRG1/SDK_EVAL_Led.o
  .debug_frame   0x0000000000000000       0xa4 ./SDK_Eval_BlueNRG1/SDK_EVAL_Led.o
  .ARM.attributes
@@ -528,7 +528,7 @@ Discarded input sections
                 0x0000000000000000       0xe8 ./Library/BlueNRG1_adc.o
  .debug_ranges  0x0000000000000000       0xd8 ./Library/BlueNRG1_adc.o
  .debug_line    0x0000000000000000      0x53b ./Library/BlueNRG1_adc.o
- .debug_str     0x0000000000000000      0x8ca ./Library/BlueNRG1_adc.o
+ .debug_str     0x0000000000000000      0x8cf ./Library/BlueNRG1_adc.o
  .comment       0x0000000000000000       0x72 ./Library/BlueNRG1_adc.o
  .debug_frame   0x0000000000000000      0x200 ./Library/BlueNRG1_adc.o
  .ARM.attributes
@@ -562,7 +562,7 @@ Discarded input sections
                 0x0000000000000000       0x68 ./Library/BlueNRG1_dma.o
  .debug_ranges  0x0000000000000000       0x58 ./Library/BlueNRG1_dma.o
  .debug_line    0x0000000000000000      0x39f ./Library/BlueNRG1_dma.o
- .debug_str     0x0000000000000000      0x951 ./Library/BlueNRG1_dma.o
+ .debug_str     0x0000000000000000      0x956 ./Library/BlueNRG1_dma.o
  .comment       0x0000000000000000       0x72 ./Library/BlueNRG1_dma.o
  .debug_frame   0x0000000000000000       0xb8 ./Library/BlueNRG1_dma.o
  .ARM.attributes
@@ -688,7 +688,7 @@ Discarded input sections
                 0x0000000000000000       0xe8 ./Library/BlueNRG1_i2c.o
  .debug_ranges  0x0000000000000000       0xd8 ./Library/BlueNRG1_i2c.o
  .debug_line    0x0000000000000000      0x4ee ./Library/BlueNRG1_i2c.o
- .debug_str     0x0000000000000000      0xace ./Library/BlueNRG1_i2c.o
+ .debug_str     0x0000000000000000      0xad3 ./Library/BlueNRG1_i2c.o
  .comment       0x0000000000000000       0x72 ./Library/BlueNRG1_i2c.o
  .debug_frame   0x0000000000000000      0x1bc ./Library/BlueNRG1_i2c.o
  .ARM.attributes
@@ -738,7 +738,7 @@ Discarded input sections
                 0x0000000000000000       0xa8 ./Library/BlueNRG1_mft.o
  .debug_ranges  0x0000000000000000       0x98 ./Library/BlueNRG1_mft.o
  .debug_line    0x0000000000000000      0x42f ./Library/BlueNRG1_mft.o
- .debug_str     0x0000000000000000      0x889 ./Library/BlueNRG1_mft.o
+ .debug_str     0x0000000000000000      0x88e ./Library/BlueNRG1_mft.o
  .comment       0x0000000000000000       0x72 ./Library/BlueNRG1_mft.o
  .debug_frame   0x0000000000000000      0x148 ./Library/BlueNRG1_mft.o
  .ARM.attributes
@@ -776,7 +776,7 @@ Discarded input sections
                 0x0000000000000000       0x28 ./Library/BlueNRG1_rng.o
  .debug_ranges  0x0000000000000000       0x18 ./Library/BlueNRG1_rng.o
  .debug_line    0x0000000000000000      0x255 ./Library/BlueNRG1_rng.o
- .debug_str     0x0000000000000000      0x48b ./Library/BlueNRG1_rng.o
+ .debug_str     0x0000000000000000      0x490 ./Library/BlueNRG1_rng.o
  .comment       0x0000000000000000       0x72 ./Library/BlueNRG1_rng.o
  .debug_frame   0x0000000000000000       0x30 ./Library/BlueNRG1_rng.o
  .ARM.attributes
@@ -818,7 +818,7 @@ Discarded input sections
                 0x0000000000000000       0x88 ./Library/BlueNRG1_rtc.o
  .debug_ranges  0x0000000000000000       0x78 ./Library/BlueNRG1_rtc.o
  .debug_line    0x0000000000000000      0x3ed ./Library/BlueNRG1_rtc.o
- .debug_str     0x0000000000000000      0x807 ./Library/BlueNRG1_rtc.o
+ .debug_str     0x0000000000000000      0x80c ./Library/BlueNRG1_rtc.o
  .comment       0x0000000000000000       0x72 ./Library/BlueNRG1_rtc.o
  .debug_frame   0x0000000000000000      0x110 ./Library/BlueNRG1_rtc.o
  .ARM.attributes
@@ -892,7 +892,7 @@ Discarded input sections
                 0x0000000000000000      0x108 ./Library/BlueNRG1_spi.o
  .debug_ranges  0x0000000000000000       0xf8 ./Library/BlueNRG1_spi.o
  .debug_line    0x0000000000000000      0x52c ./Library/BlueNRG1_spi.o
- .debug_str     0x0000000000000000      0x93e ./Library/BlueNRG1_spi.o
+ .debug_str     0x0000000000000000      0x943 ./Library/BlueNRG1_spi.o
  .comment       0x0000000000000000       0x72 ./Library/BlueNRG1_spi.o
  .debug_frame   0x0000000000000000      0x214 ./Library/BlueNRG1_spi.o
  .ARM.attributes
@@ -983,7 +983,7 @@ Discarded input sections
                 0x0000000000000000       0x60 ./Library/BlueNRG1_wdg.o
  .debug_ranges  0x0000000000000000       0x50 ./Library/BlueNRG1_wdg.o
  .debug_line    0x0000000000000000      0x2e0 ./Library/BlueNRG1_wdg.o
- .debug_str     0x0000000000000000      0x58a ./Library/BlueNRG1_wdg.o
+ .debug_str     0x0000000000000000      0x58f ./Library/BlueNRG1_wdg.o
  .comment       0x0000000000000000       0x72 ./Library/BlueNRG1_wdg.o
  .debug_frame   0x0000000000000000       0xa0 ./Library/BlueNRG1_wdg.o
  .ARM.attributes
@@ -1004,7 +1004,7 @@ Discarded input sections
                 0x0000000000000000       0x30 ./Library/misc.o
  .debug_ranges  0x0000000000000000       0x38 ./Library/misc.o
  .debug_line    0x0000000000000000      0x336 ./Library/misc.o
- .debug_str     0x0000000000000000      0x683 ./Library/misc.o
+ .debug_str     0x0000000000000000      0x688 ./Library/misc.o
  .comment       0x0000000000000000       0x72 ./Library/misc.o
  .debug_frame   0x0000000000000000       0x50 ./Library/misc.o
  .ARM.attributes
@@ -1052,7 +1052,7 @@ Discarded input sections
                 0x0000000000000000       0x38 ./Hal/sleep.o
  .debug_ranges  0x0000000000000000       0xa8 ./Hal/sleep.o
  .debug_line    0x0000000000000000      0x678 ./Hal/sleep.o
- .debug_str     0x0000000000000000     0x2244 ./Hal/sleep.o
+ .debug_str     0x0000000000000000     0x2249 ./Hal/sleep.o
  .comment       0x0000000000000000       0x72 ./Hal/sleep.o
  .debug_frame   0x0000000000000000       0x64 ./Hal/sleep.o
  .ARM.attributes
@@ -5419,35 +5419,35 @@ OUTPUT(008v2_beacon.elf elf32-littlearm)
  .debug_line    0x0000000000002e2e      0x3df ./Hal/miscutil.o
  .debug_line    0x000000000000320d      0x21c ./Hal/osal.o
 
-.debug_str      0x0000000000000000     0x2e65
- .debug_str     0x0000000000000000     0x1141 ./User/BLE_Beacon_main.o
-                                       0x121b (size before relaxing)
- .debug_str     0x0000000000001141       0x9d ./User/BlueNRG1_it.o
-                                        0x4a8 (size before relaxing)
- .debug_str     0x00000000000011de      0x8ee ./Startup/system_bluenrg1.o
-                                       0x11fa (size before relaxing)
- .debug_str     0x0000000000001acc      0x610 ./SDK_Eval_BlueNRG1/SDK_EVAL_Com.o
-                                       0x15cf (size before relaxing)
- .debug_str     0x00000000000020dc       0x56 ./SDK_Eval_BlueNRG1/SDK_EVAL_Config.o
-                                        0xb73 (size before relaxing)
- .debug_str     0x0000000000002132      0x139 ./Library/BlueNRG1_flash.o
-                                        0x668 (size before relaxing)
- .debug_str     0x000000000000226b      0x267 ./Library/BlueNRG1_gpio.o
-                                        0x7be (size before relaxing)
- .debug_str     0x00000000000024d2      0x14c ./Library/BlueNRG1_pka.o
-                                        0x5b6 (size before relaxing)
- .debug_str     0x000000000000261e      0x1b9 ./Library/BlueNRG1_sysCtrl.o
-                                        0x8c1 (size before relaxing)
- .debug_str     0x00000000000027d7      0x512 ./Library/BlueNRG1_uart.o
-                                        0xb32 (size before relaxing)
- .debug_str     0x0000000000002ce9       0x7d ./Hal/clock.o
-                                        0x642 (size before relaxing)
- .debug_str     0x0000000000002d66       0x26 ./Hal/context_switch.o
-                                         0x5c (size before relaxing)
- .debug_str     0x0000000000002d8c       0xa0 ./Hal/miscutil.o
-                                        0xb74 (size before relaxing)
- .debug_str     0x0000000000002e2c       0x39 ./Hal/osal.o
-                                        0x5e3 (size before relaxing)
+.debug_str      0x0000000000000000     0x2e6a
+ .debug_str     0x0000000000000000     0x1146 ./User/BLE_Beacon_main.o
+                                       0x1220 (size before relaxing)
+ .debug_str     0x0000000000001146       0x9d ./User/BlueNRG1_it.o
+                                        0x4ad (size before relaxing)
+ .debug_str     0x00000000000011e3      0x8ee ./Startup/system_bluenrg1.o
+                                       0x11ff (size before relaxing)
+ .debug_str     0x0000000000001ad1      0x610 ./SDK_Eval_BlueNRG1/SDK_EVAL_Com.o
+                                       0x15d4 (size before relaxing)
+ .debug_str     0x00000000000020e1       0x56 ./SDK_Eval_BlueNRG1/SDK_EVAL_Config.o
+                                        0xb78 (size before relaxing)
+ .debug_str     0x0000000000002137      0x139 ./Library/BlueNRG1_flash.o
+                                        0x66d (size before relaxing)
+ .debug_str     0x0000000000002270      0x267 ./Library/BlueNRG1_gpio.o
+                                        0x7c3 (size before relaxing)
+ .debug_str     0x00000000000024d7      0x14c ./Library/BlueNRG1_pka.o
+                                        0x5bb (size before relaxing)
+ .debug_str     0x0000000000002623      0x1b9 ./Library/BlueNRG1_sysCtrl.o
+                                        0x8c6 (size before relaxing)
+ .debug_str     0x00000000000027dc      0x512 ./Library/BlueNRG1_uart.o
+                                        0xb37 (size before relaxing)
+ .debug_str     0x0000000000002cee       0x7d ./Hal/clock.o
+                                        0x647 (size before relaxing)
+ .debug_str     0x0000000000002d6b       0x26 ./Hal/context_switch.o
+                                         0x61 (size before relaxing)
+ .debug_str     0x0000000000002d91       0xa0 ./Hal/miscutil.o
+                                        0xb79 (size before relaxing)
+ .debug_str     0x0000000000002e31       0x39 ./Hal/osal.o
+                                        0x5e8 (size before relaxing)
 
 .comment        0x0000000000000000    0x13771
  .comment       0x0000000000000000       0x71 ./User/BLE_Beacon_main.o

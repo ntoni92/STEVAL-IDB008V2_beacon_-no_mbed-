@@ -46,7 +46,7 @@ all: 008v2_beacon.elf secondary-outputs
 008v2_beacon.elf: $(OBJS) $(USER_OBJS)
 	@echo 'Building target: $@'
 	@echo 'Invoking: GNU ARM Cross C Linker'
-	arm-none-eabi-gcc -mcpu=cortex-m0 -mthumb -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g -T "C:\Users\Antonio\eclipse-workspace\008v2_beacon\BlueNRG2.ld" -nostartfiles -nodefaultlibs -Xlinker --gc-sections -L"C:\Users\Antonio\Desktop\uvision\BlueNRG-1_2_DK_3.0.0\Library\Bluetooth_LE\library" -L"C:\Users\Antonio\Desktop\uvision\BlueNRG-1_2_DK_3.0.0\Library\cryptolib" -Wl,-Map,"008v2_beacon.map" --specs=nosys.specs -Wl,-cref,-u,-Xlinker,--defsym=ST_LINKER_OPTION=1 -o "008v2_beacon.elf" $(OBJS) $(USER_OBJS) $(LIBS)
+	arm-none-eabi-gcc -mcpu=cortex-m0 -mthumb -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g -T "D:\Documenti\GitHub\STEVAL-IDB008V2_beacon_-no_mbed-\BlueNRG2.ld" -nostartfiles -nodefaultlibs -Xlinker --gc-sections -L"C:\Users\Antonio\Desktop\uvision\BlueNRG-1_2_DK_3.0.0\Library\Bluetooth_LE\library" -L"C:\Users\Antonio\Desktop\uvision\BlueNRG-1_2_DK_3.0.0\Library\cryptolib" -Wl,-Map,"008v2_beacon.map" --specs=nosys.specs -Wl,-cref,-u,-Xlinker,--defsym=ST_LINKER_OPTION=1 -o "008v2_beacon.elf" $(OBJS) $(USER_OBJS) $(LIBS)
 	@echo 'Finished building target: $@'
 	@echo ' '
 	$(MAKE) --no-print-directory post-build
