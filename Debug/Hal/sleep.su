@@ -1,0 +1,4 @@
+sleep.c:51:1:App_SleepMode_Check	0	static
+sleep.c:55:1:BlueNRG_Stack_Perform_Deep_Sleep_Check	0	static
+sleep.c:508:9:BlueNRG_Sleep	704	static
+sleep.c:560:9:BlueNRG_WakeupSource	0	static
